@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1542021603 source:c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\list.cpp
+	"List.h"
+
+1542023769 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\list.h
+
+1542023250 source:c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\main.cpp
+	<iostream>
+	"Ordered_list.cpp"
+
+1542021603 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\list.cpp
+	"List.h"
+
+1542023250 source:c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\ordered_list.cpp
+	"Ordered_list.h"
+
+1542021604 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\record.h
+	"Key.h"
+
+1542021685 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\key.h
+
+1542023250 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\ordered_list.cpp
+	"Ordered_list.h"
+
+1542023897 c:\users\mathskiller\desktop\20181003kaishiyong epan xuexi\c++ shujujiegou\w5\cb\ordered list\ordered_list.h
+	"List.cpp"
+

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W3/disancizuoye/main.cpp
+iostream
+-
+

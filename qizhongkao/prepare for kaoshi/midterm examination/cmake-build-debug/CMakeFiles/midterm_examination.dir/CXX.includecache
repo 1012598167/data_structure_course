@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/midterm examination/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cstdlib
+-
+

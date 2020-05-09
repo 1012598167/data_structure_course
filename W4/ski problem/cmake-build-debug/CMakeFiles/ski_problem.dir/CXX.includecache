@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W4/ski problem/Ski.cpp
+Ski.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W4/ski problem/Ski.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W4/ski problem/Ski.h
+stack
+-
+queue
+-
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W4/ski problem/main.cpp
+iostream
+-
+Ski.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W4/ski problem/Ski.h
+stack
+-
+

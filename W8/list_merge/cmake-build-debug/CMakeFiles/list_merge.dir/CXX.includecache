@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/Key.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/Record.h
+Key.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/Key.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/list.h
+Record.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/Record.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/main.cpp
+iostream
+-
+list.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W8/list_merge/list.h
+

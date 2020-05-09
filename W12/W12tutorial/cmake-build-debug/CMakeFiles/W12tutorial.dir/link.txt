@@ -1,0 +1,3 @@
+"F:\ruanjian\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\W12tutorial.dir/objects.a
+F:\ruanjian\mingw\mingw32\bin\ar.exe cr CMakeFiles\W12tutorial.dir/objects.a @CMakeFiles\W12tutorial.dir\objects1.rsp
+F:\ruanjian\mingw\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\W12tutorial.dir/objects.a -Wl,--no-whole-archive  -o W12tutorial.exe -Wl,--out-implib,libW12tutorial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\W12tutorial.dir\linklibs.rsp

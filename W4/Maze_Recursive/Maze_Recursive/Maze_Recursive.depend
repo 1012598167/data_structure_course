@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538976537 source:d:\allimportant\maze_recursive\main.cpp
+	<iostream>
+	"Maze.h"
+
+1538941821 d:\allimportant\maze_recursive\include\maze.h
+	<iostream>
+	<stack>
+
+1538940757 source:d:\allimportant\maze_recursive\src\maze.cpp
+	"Maze.h"
+

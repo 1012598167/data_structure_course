@@ -1,0 +1,15 @@
+//
+// Created by mathskiller on 2018/11/18.
+//
+
+#ifndef FORMAL_MIDTERM_CIRLINKLIST_CIRLINKLIST_H
+#define FORMAL_MIDTERM_CIRLINKLIST_CIRLINKLIST_H
+
+
+class CirLinkList
+{
+
+};
+
+
+#endif //FORMAL_MIDTERM_CIRLINKLIST_CIRLINKLIST_H

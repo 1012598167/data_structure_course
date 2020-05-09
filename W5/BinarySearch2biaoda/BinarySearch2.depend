@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1359204666 source:d:\allimportant\binarysearch\key.cpp
+	"Key.h"
+
+1359204666 d:\allimportant\binarysearch\key.h
+
+1541038461 source:d:\allimportant\binarysearch\list.cpp
+	"List.h"
+
+1359204754 d:\allimportant\binarysearch\list.h
+
+1541038461 source:d:\allimportant\binarysearch\ordered_list.cpp
+	"Ordered_list.h"
+
+1541038045 d:\allimportant\binarysearch\ordered_list.h
+	"Record.h"
+	"List.cpp"
+
+1359204741 d:\allimportant\binarysearch\record.h
+	"Key.h"
+	"iostream"
+
+1541038461 d:\allimportant\binarysearch\list.cpp
+	"List.h"
+
+1359204666 source:d:\allimportant\binarysearch\record.cpp
+	"Record.h"
+
+1541035241 source:d:\allimportant\binarysearch\main.cpp
+	"Ordered_list.h"
+	<iostream>
+

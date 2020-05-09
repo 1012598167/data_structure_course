@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/formal midterm myintstack/formal midterm cirqueue/CirQueue.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/formal midterm myintstack/formal midterm cirqueue/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+string
+-
+vector
+-
+CirQueue.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/formal midterm myintstack/formal midterm cirqueue/CirQueue.h
+

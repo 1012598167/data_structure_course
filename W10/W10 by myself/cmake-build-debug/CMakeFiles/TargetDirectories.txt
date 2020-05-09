@@ -1,0 +1,3 @@
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W10/W10 by myself/cmake-build-debug/CMakeFiles/W10_by_myself.dir
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W10/W10 by myself/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/W10/W10 by myself/cmake-build-debug/CMakeFiles/rebuild_cache.dir

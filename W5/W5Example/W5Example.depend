@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540746659 source:d:\allimportant\w5example\main.cpp
+	<iostream>
+	"Coord.h"
+
+1540746594 source:d:\allimportant\w5example\src\coord.cpp
+	"Coord.h"
+
+1540746891 d:\allimportant\w5example\include\coord.h
+	<iostream>
+	<ostream>
+

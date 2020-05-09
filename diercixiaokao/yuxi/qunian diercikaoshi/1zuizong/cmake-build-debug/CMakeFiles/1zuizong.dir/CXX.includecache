@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/yuxi/qunian diercikaoshi/1zuizong/BTree.cpp
+BTree.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/yuxi/qunian diercikaoshi/1zuizong/BTree.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/yuxi/qunian diercikaoshi/1zuizong/BTree.h
+string
+-
+queue
+-
+iostream
+-
+

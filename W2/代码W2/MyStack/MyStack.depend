@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537329697 source:d:\allimportant\mystack\src\mystack.cpp
+
+1537329697 d:\allimportant\mystack\include\mystack.h
+	"src/MyStack.cpp"
+
+1537328762 source:d:\allimportant\mystack\main.cpp
+	<iostream>
+	"MyStack.h"
+
+1537329697 d:\allimportant\mystack\\src\mystack.cpp
+

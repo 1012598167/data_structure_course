@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/Key.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/Record.h
+Key.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/Key.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/list.h
+Record.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/Record.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/main.cpp
+iostream
+-
+list.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/c++ shujujiegou/diercixiaokao/zhengshikaoshi/disanti/list.h
+string
+-
+fstream
+-
+vector
+-
+

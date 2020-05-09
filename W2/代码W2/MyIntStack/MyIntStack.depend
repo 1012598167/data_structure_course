@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537315020 source:d:\allimportant\myintstack\src\myintstack.cpp
+	"MyIntStack.h"
+
+1537315014 d:\allimportant\myintstack\include\myintstack.h
+
+1537315059 source:d:\allimportant\myintstack\main.cpp
+	<iostream>
+	"MyIntStack.h"
+

@@ -1,0 +1,3 @@
+"F:\ruanjian\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\midterm_examination.dir/objects.a
+F:\ruanjian\mingw\mingw32\bin\ar.exe cr CMakeFiles\midterm_examination.dir/objects.a @CMakeFiles\midterm_examination.dir\objects1.rsp
+F:\ruanjian\mingw\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\midterm_examination.dir/objects.a -Wl,--no-whole-archive  -o midterm_examination.exe -Wl,--out-implib,libmidterm_examination.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\midterm_examination.dir\linklibs.rsp
